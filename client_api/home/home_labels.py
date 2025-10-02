@@ -1,0 +1,4 @@
+
+
+class HomeLabels:
+    pass
